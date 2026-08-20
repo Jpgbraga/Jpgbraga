@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou o João Pedro Gomes Braga!
+# 👨‍💻 Olá, eu sou o João Pedro!
 
 `Estudante de Engenharia da Computação`
 
