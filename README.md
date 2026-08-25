@@ -29,9 +29,3 @@ Tenho proficiência e venho me aprimorando ativamente nas seguintes linguagens e
   <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
 
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jpgbraga&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-</p>
