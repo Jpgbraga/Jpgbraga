@@ -35,7 +35,6 @@ Tenho proficiência e venho me aprimorando ativamente nas seguintes linguagens e
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jpgbraga&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpgbraga&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </p>
 
